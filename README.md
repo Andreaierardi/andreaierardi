@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Data Science intern at the Department of Economics, Management, and Quantitative Methods (DEMM) of the University of Milan
+Data Science intern at the Department of Economics, Management, and Quantitative Methods (DEMM) of the University of Milan.
+Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
 
 <a href="https://ierardiandrea.com/" rel="nofollow noreferrer">  <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=22> 
 <a href="https://www.linkedin.com/in/andreaierardi">
