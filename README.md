@@ -2,10 +2,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andreaierardi)
 
-
-Data Science intern at the Department of Economics, Management, and Quantitative Methods (DEMM) of the University of Milan.
-Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
-
 <a href="https://ierardiandrea.com/" rel="nofollow noreferrer">  <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=22> 
 <a href="https://www.linkedin.com/in/andreaierardi">
   <img align="left" alt="Andrea Ierardi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,6 +12,9 @@ Graduated in Computer Science and attenting the Master in Data Science and Econo
 <a href="https://www.instagram.com/andreaierardi/">
   <img align="left" alt="Andrea Ierardi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+Data Science intern at the Department of Economics, Management, and Quantitative Methods (DEMM) of the University of Milan.
+Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
 
 
 <!--
