@@ -18,9 +18,30 @@ Graduated in Computer Science and attenting the Master in Data Science and Econo
 </a>
 
 
+<!--
+**Andreaierardi/andreaierardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
+- 🔭 I’m currently working on Covid19 Dashboard for Forecast Evaluationù
+- 🌱 I’m currently learning Django, AJAX, Jquery
+- 💬 Ask me about anything, I am happy to help;
+
+- 📫 How to reach me: 
+    - Website: [ierardiandrea.com](https://ierardiandrea.com)
+    - Gmail : <a href="MAILTO:andreierardi@gmail.com">andreierardi@gmail.com</a> 
 
 
 **Languages and Tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -33,20 +54,8 @@ Graduated in Computer Science and attenting the Master in Data Science and Econo
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<!--
-**Andreaierardi/andreaierardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <summary>📈 My GitHub Stats</summary>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreaierardi&show_icons=true&theme=gotham" alt="andreaierardi" />
