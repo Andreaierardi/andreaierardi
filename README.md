@@ -58,5 +58,5 @@ Here are some ideas to get you started:
 
 
 <summary>📈 My GitHub Stats</summary>
-
+<br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=andreaierardi&show_icons=true&theme=gotham" alt="andreaierardi" />
