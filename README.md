@@ -17,6 +17,7 @@ Data Science intern at the Department of Economics, Management, and Quantitative
 Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
 
 
+
 <!--
 **Andreaierardi/andreaierardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Covid19 Dashboard for Forecast Evaluationù
+- 🔭 I’m currently working on Covid19 Dashboard for Forecast Evaluation
 - 🌱 I’m currently learning Django, AJAX, Jquery
 - 💬 Ask me about anything, I am happy to help;
 
