@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Data Science intern at the Department of Economics, Management, and Quantitative Methods (DEMM) of the University of Milan
+
 <a href="https://ierardiandrea.com/" rel="nofollow noreferrer">  <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=22> 
 <a href="https://www.linkedin.com/in/andreaierardi">
   <img align="left" alt="Andrea Ierardi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -11,6 +13,7 @@
   <img align="left" alt="Andrea Ierardi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=andreaierardi)
 
 <!--
 **Andreaierardi/andreaierardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
