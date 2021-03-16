@@ -13,7 +13,7 @@
   <img align="left" alt="Andrea Ierardi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-Data Science intern at the Department of Economics, Management, and Quantitative Methods (DEMM) of the University of Milan.
+Data Science Intern at Borsa Italiana & London Stock Exchange Group.
 Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
 
 <br>
