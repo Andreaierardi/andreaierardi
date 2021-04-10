@@ -2,16 +2,11 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andreaierardi)
 
-<a href="https://ierardiandrea.com/" rel="nofollow noreferrer">  <img src="https://github.com/Andreaierardi/Master-DataScience-Notes/blob/master/img/website.svg" width=22> 
-<a href="https://www.linkedin.com/in/andreaierardi">
-  <img align="left" alt="Andrea Ierardi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/andrea_ierardi">
-  <img align="left" alt="Andrea Ierardi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/andreaierardi/">
-  <img align="left" alt="Andrea Ierardi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreaierardi/)](https://www.linkedin.com/in/andreaierardi/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andrea_ierardi)](https://twitter.com/andrea_ierardi)
+[![Website Badge](https://img.shields.io/badge/-Site-darkgreen?style=for-the-badge&labelColor=green&logo=googleearth&logoColor=white&link=https://ierardiandrea.com/)](https://ierardiandrea.com/)
+[![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)](https://github.com/Andreaierardi)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andreierardi@gmail.com)](mailto:andreierardi@gmail.com)
 
 Data Science Intern at Borsa Italiana & London Stock Exchange Group.
 Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
@@ -30,9 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🔭 I’m currently working on Covid19 Dashboard for Forecast Evaluation
-- 🌱 I’m currently learning Django, AJAX, Jquery
+- 🧑‍💼 Data Scientist Intern at Borsa Italiana (LSEG)
+- 🌱 I’m currently learning AWS and XGBost
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: 
