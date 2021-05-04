@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍💼 Data Scientist Intern at Borsa Italiana (LSEG)
-- 🌱 I’m currently learning AWS and XGBost
+<!-- - 🌱 I’m currently learning AWS and XGBost -->
 - 💬 Ask me about anything, I am happy to help;
 
 - 📫 How to reach me: 
