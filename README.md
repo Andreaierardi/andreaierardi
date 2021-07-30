@@ -8,7 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)](https://github.com/Andreaierardi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andreierardi@gmail.com)](mailto:andreierardi@gmail.com)
 
-Data Science Intern at Borsa Italiana & London Stock Exchange Group.<br>
+Data Science Intern at Borsa Italiana (Euronext Group).<br>
 Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
 
 <br>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍💼 Data Scientist Intern at Borsa Italiana (LSEG)
+- 🧑‍💼 Data Scientist Intern at Borsa Italiana (Euronext)
 <!-- - 🌱 I’m currently learning AWS and XGBost -->
 - 💬 Ask me about anything, I am happy to help;
 
