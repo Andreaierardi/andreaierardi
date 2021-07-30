@@ -8,7 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)](https://github.com/Andreaierardi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andreierardi@gmail.com)](mailto:andreierardi@gmail.com)
 
-Data Science Intern at Borsa Italiana (Euronext Group).<br>
+Data Science Intern at Borsa Italiana(Euronext Group).  <img src=https://www.euronext.com/themes/custom/euronext_com/logo.svg width="80px"> </img>  <br>
 Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
 
 <br>
