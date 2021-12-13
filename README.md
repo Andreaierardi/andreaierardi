@@ -8,8 +8,9 @@
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)](https://github.com/Andreaierardi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andreierardi@gmail.com)](mailto:andreierardi@gmail.com)
 
-Data Science Intern at Borsa Italiana(Euronext Group).  <img src=https://www.euronext.com/themes/custom/euronext_com/logo.svg width="80px"> </img>  <br>
-Graduated in Computer Science and attenting the Master in Data Science and Economics at the University of Milan. 
+Working at FastWeb <img src="https://upload.wikimedia.org/wikipedia/it/f/f3/Fastweb_company_logo-1-.png" width="80px"> </img>  <br>
+Worked as Intern at Borsa Italiana(Euronext Group).  <img src=https://www.euronext.com/themes/custom/euronext_com/logo.svg width="80px"> </img>  <br>
+Graduating in  Data Science at the University of Milan and Graduated in Computer Science. 
 
 <br>
 
@@ -25,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍💼 Data Scientist Intern at Borsa Italiana (Euronext)
+- 🧑‍💼 Data Scientist at FastWeb
 <!-- - 🌱 I’m currently learning AWS and XGBost -->
 - 💬 Ask me about anything, I am happy to help;
 
