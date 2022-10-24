@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🧑‍💼 Data Scientist at FastWeb
+- 🧑‍💼 ML Engineer at SKY
 <!-- - 🌱 I’m currently learning GCP -->
 - 💬 Ask me about anything, I am happy to help;
 
