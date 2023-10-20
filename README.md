@@ -4,7 +4,6 @@ My name is Andrea
 ![](https://visitor-badge.glitch.me/badge?page_id=andreaierardi)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreaierardi/)](https://www.linkedin.com/in/andreaierardi/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/andrea_ierardi)](https://twitter.com/andrea_ierardi)
 [![Website Badge](https://img.shields.io/badge/-Website-darkgreen?style=for-the-badge&labelColor=green&logo=chrome&logoColor=white&link=https://ierardiandrea.com/)](https://ierardiandrea.com/)
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)](https://github.com/Andreaierardi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andreierardi@gmail.com)](mailto:andreierardi@gmail.com)
