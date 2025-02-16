@@ -8,7 +8,7 @@ My name is Andrea
 [![Github Badge](https://img.shields.io/badge/-github-black?style=for-the-badge&labelColor=black&logo=github&logoColor=white&link=https://github.com/Andreaierardi)](https://github.com/Andreaierardi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:andreierardi@gmail.com)](mailto:andreierardi@gmail.com)
 
-Working as AI Engineer at Lundbeck, Copenaghen 
+Working as AI Engineer at Lundbeck, <b> Copenaghen <b> <img src="https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/media-library/images/logo/LUNDBECK-logo-RGB.png.coredownload.png" width="50px"> </img> <br>
 
 Worked as Machine Learning Engineer at SKY   <img src="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png" width="50px"> </img> <br>
 Worked Data Scientist at FastWeb <img src="https://www.fastweb.it/adsl-fibra-ottica/gfx/loghi/logo-fw-simple-yellow.svg" width="80px"> </img>  and as Intern at Borsa Italiana(Euronext Group).  <img src=https://www.euronext.com/themes/custom/euronext_com/logo.svg width="80px"> </img>  <br>
