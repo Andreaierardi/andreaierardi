@@ -10,7 +10,7 @@ My name is Andrea
 
 Working as Lead AI Engineer at Lundbeck, <b> Copenaghen </b> <img src="https://www.lundbeck.com/content/dam/lundbeck-com/masters/global-site/media-library/images/logo/LUNDBECK-logo-RGB.png.coredownload.png" width="50px"> </img> <br>
 
-Worked as Machine Learning Engineer at SKY   <img src="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png" width="50px"> </img> <br>
+Worked as Senior Machine Learning Engineer at SKY   <img src="https://images.contentstack.io/v3/assets/blta6c52b9cd5519be3/blt6d53a02ef6177c05/6214b789d4d6d062eec34187/logo_sky_spectrum.png" width="50px"> </img> <br>
 Worked Data Scientist at FastWeb <img src="https://www.fastweb.it/adsl-fibra-ottica/gfx/loghi/logo-fw-simple-yellow.svg" width="80px"> </img>  and as Intern at Borsa Italiana(Euronext Group).  <img src=https://www.euronext.com/themes/custom/euronext_com/logo.svg width="80px"> </img>  <br>
 Graduating in  Data Science at the University of Milan and Graduated in Computer Science. 
 
